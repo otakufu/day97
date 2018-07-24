@@ -6,6 +6,7 @@ public class Book {
     private String bookname;
     private Float price;
     private String pic;
+//    123
     private String bookdesc;
 
     @Override
